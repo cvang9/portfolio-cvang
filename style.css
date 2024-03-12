@@ -439,6 +439,10 @@ svg{
   color: var(--color-blue)
 }
 
+.cross {
+    color: red;
+}
+
 .blue-border{
   border-color: var(--color-blue);
 }
